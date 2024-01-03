@@ -11,4 +11,3 @@
 * String templating in ES6
 * Object creation and their properties in ES6
 * Iterators and for-of loops
-
